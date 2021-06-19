@@ -1,0 +1,71 @@
+1622406762957	geckodriver	INFO	Listening on 127.0.0.1:52467
+1622406763883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegquGhA"
+1622406772779	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622406781106	Marionette	INFO	Listening on port 45725
+1622406781474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazon@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine qwant@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1622406785474	Marionette	INFO	Stopped listening on port 45725
+JavaScript error: resource:///modules/EveryWindow.jsm, line 37: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1622406823726	geckodriver	INFO	Listening on 127.0.0.1:46417
+1622406824549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHgMAiN"
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 833: NotAllowedError: Shutting down and refusing additional I/O tasks
+1622406830391	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1622406847992	Marionette	INFO	Listening on port 46617
+1622406848334	Marionette	WARN	TLS certificate errors will be ignored for this session
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+30609
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1622406904696	Marionette	INFO	Stopped listening on port 46617
+1622408105543	geckodriver	INFO	Listening on 127.0.0.1:54675
+1622408106452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRditn7"
+1622408117508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622408131307	Marionette	INFO	Listening on port 39233
+1622408131605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hoopshype.com/salaries/players/, line 336: ReferenceError: googletag_cmd_push is not defined
+JavaScript error: https://hoopshype.com/wp-content/mu-plugins/jetpack-9.7/_inc/build/infinite-scroll/infinity.min.js?m=1619555998g, line 3: TypeError: e is null
+JavaScript error: https://hoopshype.com/wp-content/mu-plugins/jetpack-9.7/_inc/build/infinite-scroll/infinity.min.js?m=1619555998g, line 3: TypeError: e is null
+JavaScript error: https://hoopshype.com/wp-content/mu-plugins/jetpack-9.7/_inc/build/infinite-scroll/infinity.min.js?m=1619555998g, line 3: TypeError: e is null
+JavaScript error: https://hoopshype.com/player/stephen-curry/salary/, line 329: ReferenceError: googletag_cmd_push is not defined
+JavaScript error: https://hoopshype.com/salaries/players/, line 336: ReferenceError: googletag_cmd_push is not defined
+JavaScript error: https://hoopshype.com/wp-content/mu-plugins/jetpack-9.7/_inc/build/infinite-scroll/infinity.min.js?m=1619555998g, line 3: TypeError: e is null
+JavaScript error: https://hoopshype.com/wp-content/mu-plugins/jetpack-9.7/_inc/build/infinite-scroll/infinity.min.js?m=1619555998g, line 3: TypeError: e is null
+JavaScript error: https://hoopshype.com/wp-content/mu-plugins/jetpack-9.7/_inc/build/infinite-scroll/infinity.min.js?m=1619555998g, line 3: TypeError: e is null
+JavaScript error: https://hoopshype.com/wp-content/mu-plugins/jetpack-9.7/_inc/build/infinite-scroll/infinity.min.js?m=1619555998g, line 3: TypeError: e is null
+JavaScript error: https://hoopshype.com/wp-content/mu-plugins/jetpack-9.7/_inc/build/infinite-scroll/infinity.min.js?m=1619555998g, line 3: TypeError: e is null
+JavaScript error: https://hoopshype.com/wp-content/mu-plugins/jetpack-9.7/_inc/build/infinite-scroll/infinity.min.js?m=1619555998g, line 3: TypeError: e is null
+JavaScript error: https://hoopshype.com/wp-content/mu-plugins/jetpack-9.7/_inc/build/infinite-scroll/infinity.min.js?m=1619555998g, line 3: TypeError: e is null
+JavaScript error: https://hoopshype.com/wp-content/mu-plugins/jetpack-9.7/_inc/build/infinite-scroll/infinity.min.js?m=1619555998g, line 3: TypeError: e is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1622408657167	Marionette	INFO	Stopped listening on port 39233
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
